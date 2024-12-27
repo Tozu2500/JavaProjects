@@ -1,0 +1,43 @@
+  
+  Continue from here:
+  
+  Create a page to choose, whether you want to login as a user, admin, register or exit // DONE
+  
+  Create a page to register -> give the user a pin code and get the user familiar with the
+  bank.
+  
+  Create a login page for regular users. All of the names, passwords (PIN codes), card numbers,
+  transactions and other stuff need to be saved in a .txt file somewhere.
+
+  Create a login page for administrators. They will have all of the extra some features and be
+  able to view other users' profiles really closely and also do stuff that a regular user can't.
+  (To be decided, what this stuff is, exactly!)
+  
+  After that I could quickly finish off the VersionInfo.java file and start creating the main
+  page of the bank. There I would first create an array of some random people / accounts. So
+  it would look like someone is using the application. Then I could also be creating a class,
+  which randomly selects an user, and randomly selects some kind of an banking activity for the
+  selected user, so it seems like they are actually doing something as well.
+
+
+  
+  This application will have a GUI (Graphical User Interface) = buttons you can press :D
+  1. Create User and Admin Login Systems:
+
+
+
+
+  Set up simple login screens for both users and admins.
+  Use a mock database (e.g., a map or a list) to store credentials for demonstration purposes.
+  Account Management:
+
+  2 Allow users to view and update their account balances.
+  Admin should have additional privileges (like viewing all users and modifying accounts).
+  Fund Transfer:
+
+  3 Allow users to transfer funds to other users (ensure proper validation).
+  Admin can also perform fund transfers or verify them.
+  Real-Time Updates:
+  
+  4. Real-Time updates
+  Display balances and account details dynamically as they are updated.
